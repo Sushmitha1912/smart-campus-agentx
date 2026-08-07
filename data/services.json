@@ -1,0 +1,39 @@
+{
+  "library": {
+    "timings": "8:00 AM - 8:00 PM"
+  },
+
+  "transport": {
+    "buses": 27,
+    "routes": [
+      "LB Nagar",
+      "Mehdipatnam",
+      "ECIL",
+      "Patancheru"
+    ]
+  },
+
+  "hostel": {
+    "available": true
+  },
+
+  "canteen": {
+    "available": true
+  },
+
+  "medical": {
+    "available": true
+  },
+
+  "bank_atm": {
+    "available": true
+  },
+
+  "sports": {
+    "available": true
+  },
+
+  "gym": {
+    "available": true
+  }
+}

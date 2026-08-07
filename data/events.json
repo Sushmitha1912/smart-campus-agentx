@@ -1,0 +1,121 @@
+{
+  "events": [
+    {
+      "id": "EV001",
+      "title": "Google Placement Workshop",
+      "type": "workshop",
+      "date": "2026-08-08",
+      "time": "15:00",
+      "venue": "Auditorium",
+      "tags": ["placement", "google"],
+      "capacity": 120,
+      "registered": 64
+    },
+    {
+      "id": "EV002",
+      "title": "Intro to LangGraph & Agentic AI",
+      "type": "workshop",
+      "date": "2026-08-10",
+      "time": "10:00",
+      "venue": "Seminar Hall 2",
+      "tags": ["AI", "ML", "workshop"],
+      "capacity": 80,
+      "registered": 51
+    },
+    {
+      "id": "EV003",
+      "title": "Applied Machine Learning Bootcamp",
+      "type": "workshop",
+      "date": "2026-08-12",
+      "time": "09:00",
+      "venue": "CSE Seminar Hall",
+      "tags": ["AI", "ML"],
+      "capacity": 60,
+      "registered": 60
+    },
+    {
+      "id": "EV004",
+      "title": "AgentX National Hackathon Kickoff",
+      "type": "hackathon",
+      "date": "2026-08-07",
+      "time": "09:00",
+      "venue": "Main Block",
+      "tags": ["hackathon", "AI"],
+      "capacity": 300,
+      "registered": 210
+    }
+  ],
+
+  "clubs": [
+    {
+      "name": "AI & ML Club",
+      "focus": [
+        "Machine Learning",
+        "Deep Learning",
+        "NLP"
+      ],
+      "meet_day": "Friday"
+    },
+    {
+      "name": "Robotics Club",
+      "focus": [
+        "Embedded Systems",
+        "IoT"
+      ],
+      "meet_day": "Wednesday"
+    },
+    {
+      "name": "Coding Club",
+      "focus": [
+        "Competitive Programming",
+        "DSA"
+      ],
+      "meet_day": "Tuesday"
+    },
+    {
+      "name": "Data Science Society",
+      "focus": [
+        "Machine Learning",
+        "Statistics",
+        "Visualization"
+      ],
+      "meet_day": "Thursday"
+    },
+    {
+      "name": "TEDx GRIET",
+      "category": "Talks"
+    },
+    {
+      "name": "IEEE GRIET Student Branch",
+      "category": "Technical"
+    },
+    {
+      "name": "AICTE SPICES",
+      "category": "Innovation"
+    },
+    {
+      "name": "Gaming Club",
+      "category": "Club"
+    },
+    {
+      "name": "Free Software Wing",
+      "category": "Technical"
+    },
+    {
+      "name": "Quizzicals",
+      "category": "Quiz Club"
+    },
+    {
+      "name": "Street Cause",
+      "category": "Social Service"
+    },
+    {
+      "name": "NSS",
+      "category": "Community Service"
+    },
+    {
+      "name": "G-Talks",
+      "category": "Seminars"
+    }
+  ]
+}

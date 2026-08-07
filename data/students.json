@@ -1,0 +1,98 @@
+{
+  "S001": {
+    "student_id": "S001",
+    "name": "Ananya Rao",
+    "branch": "CSE",
+    "year": 3,
+    "semester": 6,
+    "email": "ananya.rao@griet.ac.in",
+    "cgpa": 8.7,
+    "hostel_resident": true,
+    "room_no": "H-214",
+    "password_hash": "$2b$12$gOxQFIMXP.z0Edegz7UQLuCqkhqP7cisgXyJ5YBVUyI04vcM4oo9a"
+  },
+  "S002": {
+    "student_id": "S002",
+    "name": "Rohit Sharma",
+    "branch": "ECE",
+    "year": 2,
+    "semester": 4,
+    "email": "rohit.sharma@griet.ac.in",
+    "cgpa": 7.9,
+    "hostel_resident": false,
+    "room_no": null,
+    "password_hash": "$2b$12$3sNkPwCLDjFictQzhWi89Ol19Om0lrArh1hDQCQDop34HOAgD0P5i"
+  },
+  "S003": {
+    "student_id": "S003",
+    "name": "Divya Patel",
+    "branch": "CSE",
+    "year": 4,
+    "semester": 8,
+    "email": "divya.patel@griet.ac.in",
+    "cgpa": 9.1,
+    "hostel_resident": true,
+    "room_no": "H-118",
+    "password_hash": "$2b$12$AlYdfoQ/WmzeE5.rCZ7VZeNDD6PQL5xoqJiOkAkc8H7jF6xYOnGLe"
+  },
+  "S004": {
+    "student_id": "S004",
+    "name": "Karthik Reddy",
+    "branch": "IT",
+    "year": 3,
+    "semester": 6,
+    "email": "karthik.reddy@griet.ac.in",
+    "cgpa": 8.2,
+    "hostel_resident": false,
+    "room_no": null,
+    "password_hash": "$2b$12$YtgUiNZNIyToS0Y0xRwIq.VUODpGcOvrY2MQoZoZ7igAwm5ERaSK6"
+  },
+  "S005": {
+    "student_id": "S005",
+    "name": "Sneha Kumar",
+    "branch": "AIML",
+    "year": 2,
+    "semester": 4,
+    "email": "sneha.kumar@griet.ac.in",
+    "cgpa": 9.3,
+    "hostel_resident": true,
+    "room_no": "H-305",
+    "password_hash": "$2b$12$eqnXUfK5tfRdyN.yW6tZMOUnlimw.KOt5htOHYge3AEv7z8j5VasW"
+  },
+  "S006": {
+    "student_id": "S006",
+    "name": "Arjun Mehta",
+    "branch": "DS",
+    "year": 4,
+    "semester": 8,
+    "email": "arjun.mehta@griet.ac.in",
+    "cgpa": 7.6,
+    "hostel_resident": false,
+    "room_no": null,
+    "password_hash": "$2b$12$7A7C/c10tqg4vSSJqq49kedYv7NgzJu0vXN4H1nOpxCsS7Ii9BVey"
+  },
+  "S007": {
+    "student_id": "S007",
+    "name": "Priya Nair",
+    "branch": "EEE",
+    "year": 1,
+    "semester": 2,
+    "email": "priya.nair@griet.ac.in",
+    "cgpa": 8.9,
+    "hostel_resident": true,
+    "room_no": "H-112",
+    "password_hash": "$2b$12$zNI1qxpYMoFntBMr7nrkweofHurBWrnjLvm0JMF1dr/ohmIKc.Gxq"
+  },
+  "S008": {
+    "student_id": "S008",
+    "name": "Varun Desai",
+    "branch": "Mechanical",
+    "year": 3,
+    "semester": 6,
+    "email": "varun.desai@griet.ac.in",
+    "cgpa": 7.1,
+    "hostel_resident": false,
+    "room_no": null,
+    "password_hash": "$2b$12$XFpnH.2POOzh.rVEajex1eb0V5vQSqGNePfVcof4pQZibvnY12K2q"
+  }
+}

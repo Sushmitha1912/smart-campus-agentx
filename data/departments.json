@@ -1,0 +1,102 @@
+[
+  {
+    "department": "Computer Science and Engineering",
+    "short_name": "CSE",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated from official website",
+    "email": "",
+    "phone": "",
+    "description": "Offers undergraduate and postgraduate programs in Computer Science and Engineering."
+  },
+  {
+    "department": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+    "short_name": "CSE-AIML",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Focuses on Artificial Intelligence, Machine Learning, and Intelligent Systems."
+  },
+  {
+    "department": "Computer Science and Engineering (Data Science)",
+    "short_name": "CSE-DS",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Specialized program in Data Science and Analytics."
+  },
+  {
+    "department": "Computer Science and Business Systems",
+    "short_name": "CSBS",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Combines Computer Science with Business and Management."
+  },
+  {
+    "department": "Information Technology",
+    "short_name": "IT",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Focuses on Information Technology and Software Engineering."
+  },
+  {
+    "department": "Electronics and Communication Engineering",
+    "short_name": "ECE",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Offers programs in Electronics and Communication Engineering."
+  },
+  {
+    "department": "Electrical and Electronics Engineering",
+    "short_name": "EEE",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Focuses on Electrical and Electronics Engineering."
+  },
+  {
+    "department": "Mechanical Engineering",
+    "short_name": "ME",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Offers Mechanical Engineering education with modern laboratories."
+  },
+  {
+    "department": "Civil Engineering",
+    "short_name": "CE",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Provides education in structural, environmental, and construction engineering."
+  },
+  {
+    "department": "Humanities and Sciences",
+    "short_name": "H&S",
+    "building": "Academic Block",
+    "floor": "Department Office",
+    "hod": "To be updated",
+    "email": "",
+    "phone": "",
+    "description": "Supports engineering education through Mathematics, Physics, Chemistry, and English."
+  }
+]

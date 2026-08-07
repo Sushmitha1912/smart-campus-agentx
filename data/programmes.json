@@ -1,0 +1,63 @@
+{
+  "admission": {
+    "merit_seats": "70%",
+    "management_nri_seats": "30%",
+    "lateral_entry": "Diploma holders can join directly into 2nd year through ECET (10% intake)."
+  },
+
+  "ug_programs": [
+    {
+      "program": "B.Tech Electronics and Communication Engineering",
+      "intake": 60
+    },
+    {
+      "program": "B.Tech Electrical and Electronics Engineering",
+      "intake": 30
+    },
+    {
+      "program": "B.Tech Computer Science and Engineering",
+      "intake": 600
+    },
+    {
+      "program": "B.Tech Mechanical Engineering",
+      "intake": 30
+    },
+    {
+      "program": "B.Tech Civil Engineering",
+      "intake": 30
+    },
+    {
+      "program": "B.Tech Computer Science and Business Systems",
+      "intake": 60
+    },
+    {
+      "program": "B.Tech CSE (Artificial Intelligence & Machine Learning)",
+      "intake": 300
+    },
+    {
+      "program": "B.Tech CSE (Data Science)",
+      "intake": 210
+    }
+  ],
+
+  "pg_programs": [
+    {
+      "program": "M.Tech Computer Science and Engineering",
+      "intake": 12
+    },
+    {
+      "program": "M.Tech Structural Engineering",
+      "intake": 18
+    }
+  ],
+
+  "important_links": [
+    "TGEAPCET Admission Procedure",
+    "TGECET Admission Procedure",
+    "Fee Structure",
+    "Fee Payment Procedure",
+    "EAPCET Last Rank",
+    "ECET Last Rank",
+    "Fee Refund Policy"
+  ]
+}

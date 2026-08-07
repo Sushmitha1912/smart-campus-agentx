@@ -1,0 +1,44 @@
+{
+  "name": "GRIET Central Library",
+  "established": 1997,
+  "catalog": "Koha Library Management System",
+  "services": [
+    "Library Catalog",
+    "Advanced Search",
+    "Authority Search",
+    "E-Resources",
+    "Newspapers",
+    "New Arrivals",
+    "Top Circulating Books"
+  ],
+  "popular_topics": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Neural Networks",
+    "Quantum Computing",
+    "Kubernetes",
+    "Docker",
+    "Data Engineering",
+    "Operating Systems",
+    "Signals and Systems",
+    "Full Stack Development",
+    "Research Methodology",
+    "Constitution of India"
+  ],
+  "hours": "Monday to Saturday, 8:00 AM to 8:00 PM. Closed on Sundays and public holidays.",
+  "borrowing_rules": "Students can borrow up to 4 books at a time for a period of 14 days, renewable once if no reservation is pending.",
+  "late_fee": "Rs. 2 per book per day after the due date.",
+  "facilities": [
+    "Reading hall with 300+ seating capacity",
+    "Digital library with e-journals and e-books",
+    "Reference section (non-issuable)",
+    "Wi-Fi enabled study zones",
+    "Group discussion rooms (bookable in advance)"
+  ],
+  "contact": {
+    "address": "Nizampet Road, Bachupally, Kukatpally, Hyderabad - 500090, Telangana",
+    "phone": ["+91-040-65864440", "+91-040-65864441"],
+    "email": "info@griet.ac.in",
+    "website": "https://www.griet.ac.in"
+  }
+}

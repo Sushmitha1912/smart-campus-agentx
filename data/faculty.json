@@ -1,0 +1,81 @@
+{
+  "CSE": {
+    "hod": {
+      "name": "Dr. B Sankara Babu",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  },
+
+  "CSE-AIML": {
+    "hod": {
+      "name": "Dr. G. Karuna",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  },
+
+  "CSE-DS": {
+    "hod": {
+      "name": "Dr. S Govinda Rao",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  },
+
+  "IT": {
+    "hod": {
+      "name": "Dr. Y Jeevan Nagendra Kumar",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  },
+
+  "ECE": {
+    "hod": {
+      "name": "Dr. K Jamal",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  },
+
+  "EEE": {
+    "hod": {
+      "name": "Dr. P Srividya Devi",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  },
+
+  "ME": {
+    "hod": {
+      "name": "Dr. Anitha Lakshmi",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  },
+
+  "CE": {
+    "hod": {
+      "name": "Dr. T Srinivas",
+      "designation": "Professor & Head",
+      "email": "",
+      "room": ""
+    },
+    "faculty": []
+  }
+}

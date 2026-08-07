@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Main Block",
+    "description": "Administrative offices and academic facilities."
+  },
+  {
+    "name": "Central Library",
+    "description": "Library with books, journals, digital resources and reading halls."
+  },
+  {
+    "name": "Examination Branch",
+    "description": "Exam registrations, hall tickets and results."
+  },
+  {
+    "name": "Placement Cell",
+    "description": "Campus recruitment and internship activities."
+  },
+  {
+    "name": "Hostel",
+    "description": "Accommodation for students."
+  },
+  {
+    "name": "Cafeteria",
+    "description": "Food court for students and staff."
+  },
+  {
+    "name": "Indoor Stadium",
+    "description": "Indoor sports and activities."
+  }
+]

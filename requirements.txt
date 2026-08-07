@@ -1,0 +1,5 @@
+streamlit>=1.38
+langgraph>=0.2.28
+google-genai>=0.3.0
+python-dotenv>=1.0.1
+numpy>=1.26

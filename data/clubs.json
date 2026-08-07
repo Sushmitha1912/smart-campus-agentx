@@ -1,0 +1,62 @@
+[
+  {
+    "name": "IEEE Student Branch",
+    "category": "Technical"
+  },
+  {
+    "name": "CSI",
+    "category": "Technical"
+  },
+  {
+    "name": "ISTE",
+    "category": "Technical"
+  },
+  {
+    "name": "NSS",
+    "category": "Social"
+  },
+  {
+    "name": "Sports Club",
+    "category": "Sports"
+  },
+  {
+    "name": "Cultural Club",
+    "category": "Cultural"
+  },
+  {
+    "name": "AI & Machine Learning Club",
+    "focus": ["ai", "machine learning", "deep learning", "data science"],
+    "faculty_advisor": "Dr. M. Aravind Kumar",
+    "meets": "Every Friday, 4:00 PM, Seminar Hall 2"
+  },
+  {
+    "name": "Coding & Competitive Programming Club",
+    "focus": ["coding", "algorithms", "competitive programming", "hackathons"],
+    "faculty_advisor": "Dr. K. Butchi Raju",
+    "meets": "Every Wednesday, 5:00 PM, CSE Seminar Hall"
+  },
+  {
+    "name": "Robotics Club",
+    "focus": ["robotics", "embedded systems", "electronics", "iot"],
+    "faculty_advisor": "Dept. of ECE",
+    "meets": "Every Saturday, 10:00 AM, Robotics Lab"
+  },
+  {
+    "name": "Entrepreneurship Cell (E-Cell)",
+    "focus": ["startups", "entrepreneurship", "business", "innovation"],
+    "faculty_advisor": "Dept. of Management",
+    "meets": "Every alternate Thursday, 4:30 PM, Main Block"
+  },
+  {
+    "name": "Cybersecurity Club",
+    "focus": ["cybersecurity", "ethical hacking", "networks", "security"],
+    "faculty_advisor": "Dept. of IT",
+    "meets": "Every Tuesday, 4:00 PM, IT Seminar Hall"
+  },
+  {
+    "name": "Cultural & Fine Arts Club",
+    "focus": ["music", "dance", "arts", "drama", "culturals"],
+    "faculty_advisor": "Student Affairs Office",
+    "meets": "Every Friday, 5:00 PM, Auditorium"
+  }
+]

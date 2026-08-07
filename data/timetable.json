@@ -1,0 +1,26 @@
+{
+  "S001": {
+    "Monday":    [{"time": "09:00-10:00", "course": "CS601 Machine Learning", "room": "301"}, {"time": "10:00-11:00", "course": "CS602 Cloud Computing", "room": "302"}],
+    "Tuesday":   [{"time": "09:00-10:00", "course": "CS603 NLP", "room": "301"}],
+    "Wednesday": [{"time": "11:00-12:00", "course": "CS601 Machine Learning Lab", "room": "Lab-2"}],
+    "Thursday":  [{"time": "09:00-10:00", "course": "CS602 Cloud Computing", "room": "302"}],
+    "Friday":    [{"time": "10:00-11:00", "course": "CS603 NLP", "room": "301"}],
+    "Saturday":  []
+  },
+  "S002": {
+    "Monday":    [{"time": "09:00-10:00", "course": "EC401 DSP", "room": "201"}],
+    "Tuesday":   [{"time": "10:00-11:00", "course": "EC402 VLSI Design", "room": "202"}],
+    "Wednesday": [{"time": "09:00-10:00", "course": "EC403 Embedded Systems", "room": "203"}],
+    "Thursday":  [],
+    "Friday":    [{"time": "11:00-12:00", "course": "EC401 DSP Lab", "room": "Lab-1"}],
+    "Saturday":  []
+  },
+  "S003": {
+    "Monday":    [{"time": "09:00-10:00", "course": "CS604 Computer Vision", "room": "304"}],
+    "Tuesday":   [{"time": "09:00-10:00", "course": "CS605 Blockchain Systems", "room": "305"}],
+    "Wednesday": [],
+    "Thursday":  [{"time": "10:00-11:00", "course": "CS604 Computer Vision Lab", "room": "Lab-3"}],
+    "Friday":    [],
+    "Saturday":  []
+  }
+}

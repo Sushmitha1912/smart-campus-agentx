@@ -1,0 +1,14 @@
+{
+  "CSE": [
+    {"code": "CS601", "name": "Machine Learning", "credits": 4, "faculty": "Dr. K. Reddy", "electives": false},
+    {"code": "CS602", "name": "Cloud Computing", "credits": 3, "faculty": "Dr. S. Iyer", "electives": false},
+    {"code": "CS603", "name": "Natural Language Processing", "credits": 3, "faculty": "Dr. M. Nair", "electives": true},
+    {"code": "CS604", "name": "Computer Vision", "credits": 3, "faculty": "Dr. A. Verma", "electives": true},
+    {"code": "CS605", "name": "Blockchain Systems", "credits": 3, "faculty": "Dr. P. Rao", "electives": true}
+  ],
+  "ECE": [
+    {"code": "EC401", "name": "Digital Signal Processing", "credits": 4, "faculty": "Dr. R. Kumar", "electives": false},
+    {"code": "EC402", "name": "VLSI Design", "credits": 3, "faculty": "Dr. T. Menon", "electives": false},
+    {"code": "EC403", "name": "Embedded Systems", "credits": 3, "faculty": "Dr. N. Das", "electives": true}
+  ]
+}

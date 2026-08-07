@@ -1,0 +1,150 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "role": "Software Engineer",
+      "type": "Full-time",
+      "min_cgpa": 8.0,
+      "eligible_branches": ["CSE", "IT", "AIML", "DS"],
+      "min_year": 3,
+      "deadline": "2026-08-15",
+      "notes": "On-campus drive. Coding round followed by 2 technical interviews and 1 HR round."
+    },
+    {
+      "name": "Myntra",
+      "role": "SDE Intern",
+      "type": "Internship",
+      "min_cgpa": 7.5,
+      "eligible_branches": ["CSE", "IT", "AIML"],
+      "min_year": 3,
+      "deadline": "2026-08-20",
+      "notes": "6-month internship with pre-placement offer potential. Online assessment first."
+    },
+    {
+      "name": "Cisco",
+      "role": "Network Engineer",
+      "type": "Full-time",
+      "min_cgpa": 7.0,
+      "eligible_branches": ["ECE", "CSE", "IT"],
+      "min_year": 3,
+      "deadline": "2026-08-18",
+      "notes": "Requires basic networking certification or coursework."
+    },
+    {
+      "name": "Walmart",
+      "role": "Software Engineer",
+      "type": "Full-time",
+      "min_cgpa": 7.5,
+      "eligible_branches": ["CSE", "IT", "DS"],
+      "min_year": 4,
+      "deadline": "2026-08-25",
+      "notes": "Final year students only. Two coding rounds."
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "role": "Technology Analyst",
+      "type": "Full-time",
+      "min_cgpa": 7.5,
+      "eligible_branches": ["CSE", "IT", "ECE"],
+      "min_year": 4,
+      "deadline": "2026-08-22",
+      "notes": "Final year students only. Aptitude test followed by 3 interview rounds."
+    },
+    {
+      "name": "Oracle",
+      "role": "Software Engineering Intern",
+      "type": "Internship",
+      "min_cgpa": 6.5,
+      "eligible_branches": ["CSE", "IT", "ECE", "EEE"],
+      "min_year": 3,
+      "deadline": "2026-08-19",
+      "notes": "Open to pre-final year students. 10-week summer internship."
+    },
+    {
+      "name": "TCS",
+      "role": "Systems Engineer",
+      "type": "Full-time",
+      "min_cgpa": 6.0,
+      "eligible_branches": ["CSE", "IT", "ECE", "EEE", "Mechanical", "Civil"],
+      "min_year": 3,
+      "deadline": "2026-08-30",
+      "notes": "Mass recruiter, open to all engineering branches."
+    },
+    {
+      "name": "Infosys",
+      "role": "Systems Engineer",
+      "type": "Full-time",
+      "min_cgpa": 6.0,
+      "eligible_branches": ["CSE", "IT", "ECE", "EEE", "Mechanical", "Civil"],
+      "min_year": 3,
+      "deadline": "2026-08-28",
+      "notes": "Mass recruiter. Online test followed by HR interview."
+    },
+    {
+      "name": "Accenture",
+      "role": "Technology Intern",
+      "type": "Internship",
+      "min_cgpa": 6.0,
+      "eligible_branches": ["CSE", "IT", "ECE", "DS", "CSBS"],
+      "min_year": 2,
+      "deadline": "2026-08-27",
+      "notes": "Open to second and third year students. 8-week summer internship with stipend."
+    },
+    {
+      "name": "Capgemini",
+      "role": "Analyst",
+      "type": "Full-time",
+      "min_cgpa": 6.0,
+      "eligible_branches": ["CSE", "IT", "ECE", "EEE"],
+      "min_year": 3,
+      "deadline": "2026-08-29",
+      "notes": "Mass recruiter, open to pre-final and final year students."
+    }
+  ],
+  "placement_cell": {
+    "training": "Soft skills training from first year",
+    "services": [
+      "Placement Training",
+      "Mock Interviews",
+      "Resume Building",
+      "Internship Support",
+      "On-Campus Placements",
+      "Off-Campus Placements"
+    ],
+    "contacts": {
+      "dean": "Dr. K. Butchi Raju",
+      "placement_officer": "Dr. M. Aravind Kumar",
+      "email": "placements@gokaraju.org"
+    }
+  },
+  "statistics": {
+    "year": "2025-26",
+    "offers": "1200+",
+    "students_above_6_lpa": "500+",
+    "total_placements": 1288,
+    "top_recruiters": [
+      {"company": "Microsoft", "package_lpa": 54.0},
+      {"company": "Myntra", "package_lpa": 30.5},
+      {"company": "Cisco", "package_lpa": 24.3},
+      {"company": "Walmart", "package_lpa": 20.0},
+      {"company": "JPMorgan Chase & Co.", "package_lpa": 19.8},
+      {"company": "Oracle", "package_lpa": 10.5},
+      {"company": "TCS", "package_lpa": 9.0},
+      {"company": "Infosys", "package_lpa": 7.0},
+      {"company": "Capgemini", "package_lpa": 7.5},
+      {"company": "Accenture", "package_lpa": 6.5}
+    ],
+    "department_wise_placements": {
+      "CSE": 481,
+      "IT": 196,
+      "AIML": 232,
+      "DS": 152,
+      "CSBS": 58,
+      "ECE": 96,
+      "EEE": 29,
+      "Mechanical": 25,
+      "Civil": 17,
+      "MTech": 2
+    }
+  }
+}
