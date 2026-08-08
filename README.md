@@ -81,8 +81,4 @@ See `architecture.md` for the full diagram.
 - Add new agents by writing a `run_x_agent(task, student_id)` function and registering it in `AGENT_REGISTRY` in `orchestrator.py`.
 - Stretch goals not yet wired up: voice interaction, multilingual support, human-in-the-loop approval before executing actions like registration/email-sending, vision/OCR for scanned documents.
 
-## ⚠️ Known limitations (proof-of-concept scope)
 
-- All campus data is mocked (JSON files), per the hackathon brief — no real institutional integration.
-- Event registration counts and calendar/reminders are simulated in-memory/mock responses, not persisted to a real calendar.
-- Single-turn planning: the planner creates one plan per user message rather than re-planning mid-execution if a step fails (errors are caught and reported gracefully instead).
