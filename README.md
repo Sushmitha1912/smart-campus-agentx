@@ -80,5 +80,6 @@ See `architecture.md` for the full diagram.
 - Swap the in-memory vector store in `rag.py` for FAISS/Chroma/Pinecone for larger document sets.
 - Add new agents by writing a `run_x_agent(task, student_id)` function and registering it in `AGENT_REGISTRY` in `orchestrator.py`.
 - Stretch goals not yet wired up: voice interaction, multilingual support, human-in-the-loop approval before executing actions like registration/email-sending, vision/OCR for scanned documents.
+https://smart-campus-agentx-hjdq7gabwqlcnalqconrsf.streamlit.app/
 
 
