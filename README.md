@@ -1,3 +1,4 @@
+https://smart-campus-agentx-hjdq7gabwqlcnalqconrsf.streamlit.app/
 # 🎓 Smart Campus Multi-Agent AI System — AgentX 2026
 
 A working proof-of-concept for the AgentX National Level Hackathon "Smart Campus Multi-Agent AI System" problem statement. An **Orchestrator Agent** (built with LangGraph) plans a user's request and coordinates specialized agents — Academic, Placement, Events, Student Services, Communication, Notification/Calendar, and a RAG-powered Knowledge Agent — to answer questions and execute multi-step campus workflows autonomously.
@@ -80,6 +81,6 @@ See `architecture.md` for the full diagram.
 - Swap the in-memory vector store in `rag.py` for FAISS/Chroma/Pinecone for larger document sets.
 - Add new agents by writing a `run_x_agent(task, student_id)` function and registering it in `AGENT_REGISTRY` in `orchestrator.py`.
 - Stretch goals not yet wired up: voice interaction, multilingual support, human-in-the-loop approval before executing actions like registration/email-sending, vision/OCR for scanned documents.
-https://smart-campus-agentx-hjdq7gabwqlcnalqconrsf.streamlit.app/
+
 
 
